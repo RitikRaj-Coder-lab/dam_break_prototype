@@ -1,7 +1,6 @@
 # Dam Break Inundation Modelling Prototype
 
-**Title:** Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River  
-**Organization:** National Technical Research Organisation (NTRO)
+**Title:** Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River 
 
 ## Overview
 This is a **lightweight, fully working prototype** of a dam-break inundation modelling framework.  
