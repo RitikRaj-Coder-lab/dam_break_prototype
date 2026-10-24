@@ -58,7 +58,7 @@ For the final version the core can be swapped for:
 
 while keeping the same GUI and export layer.
 
-## Team Division Suggestion (6 members)
+## Team Division Suggestion (4 members)
 | # | Role |
 |---|------|
 | 1 | Data acquisition (DEM, satellite, dam inventory) + GEE module |
