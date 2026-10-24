@@ -26,7 +26,7 @@ cd dam_break_prototype
 pip install streamlit plotly pandas numpy scipy folium streamlit-folium geopandas
 
 # Run the app
-streamlit run app/app.py
+python -m streamlit run app/app.py
 ```
 
 The browser will open automatically at `http://localhost:8501`.
