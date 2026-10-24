@@ -274,7 +274,7 @@ def create_flood_map(reach_km, half_widths, max_depths, peak_arrivals, scenario_
 def main():
     st.markdown('<p class="main-title">🌊 Dam Break Flood Visualiser</p>', unsafe_allow_html=True)
     st.markdown(
-        '<p class="sub-title">Professional-looking inundation map on real satellite imagery • Runs on any laptop • SIH 26161 | NTRO</p>',
+        '<p class="sub-title">Professional-looking inundation map on real satellite imagery • Runs on any laptop</p>',
         unsafe_allow_html=True
     )
 
@@ -601,8 +601,7 @@ def main():
         """)
 
         st.markdown("---")
-        st.caption("Prototype for Smart India Hackathon 2026 • Problem Statement 26161 • National Technical Research Organisation (NTRO)")
-
+        
 
 if __name__ == "__main__":
     main()
