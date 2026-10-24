@@ -81,4 +81,3 @@ It is **not validated for operational emergency decision-making**.
 Always use peer-reviewed, calibrated models and official agencies for real dam-break assessments.
 
 ---
-*Built for Smart India Hackathon 2026*
